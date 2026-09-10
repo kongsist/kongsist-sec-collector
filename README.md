@@ -14,6 +14,7 @@ SEC EDGAR 의 공시·재무 자료를 조회해 엑셀로 받습니다.
 ## 받기
 
 - **내려받기** — <https://github.com/kongsist/kongsist-sec-collector/releases/latest>
+- 받으시면 `sec-collector.zip` 하나입니다. 풀면 `미국공시 수집기.exe` 가 나오고, 설치 과정 없이 더블클릭하면 열립니다.
 - 판마다 무엇이 달라졌는지 — <https://kongsist.com/run/sec-collector>
 
 ## 쓰는 법
